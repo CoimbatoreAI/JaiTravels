@@ -1,0 +1,6 @@
+{
+  "name": "Jai Travel World",
+  "description": "Premium tour & travel agency in Kodaikanal, Tamil Nadu. Vehicle rentals, custom packages & all-area pickup since 1995.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

@@ -1,0 +1,34 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://jaitravelworld.com/sitemap.xml
+
+# Kodaikanal Travels SEO Keywords
+# Kodaikanal Travels
+# Kodaikanal tour packages
+# Cab booking Kodaikanal
+# Jai Travel World
+# Kodaikanal sightseeing
+# Pine Forest
+# Guna Cave
+# Devil's Kitchen
+# Pillar Rocks
+# Kodai Lake
+# Rose Garden
+# Dolphin's Nose
+# Mannavanur Lake
+# Poombarai Village
+# Silver Cascade Falls
+# Coakers Walk
+# Moir Point
+# Mahalashmi Temple
+# Kurinji Andavar Temple
+# Chettiar Park
+# Bryant Park
+# Innova rental Kodaikanal
+# Tempo Traveller Kodaikanal
+# Kodaikanal taxi service
+# Corporate tour packages Kodaikanal
+# Airport pickup drop Kodaikanal
+# Madurai to Kodaikanal cabs
+# Coimbatore to Kodaikanal cabs
